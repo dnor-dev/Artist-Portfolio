@@ -151,7 +151,7 @@ body{
 
 /* ==Header=== */
 #header{
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('../img/i.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('https://via.placeholder.com/50');
     background-repeat: no-repeat;
     background-position:top;
     background-size: 100% 100%;
@@ -345,7 +345,7 @@ body{
 }
 
 .contact-bg1{
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('../img/11.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('https://via.placeholder.com/50');
     background-repeat: none;
     padding: 35px;
     width: 100%;
@@ -354,7 +354,7 @@ body{
 }
 
 .contact-bg2{
-    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('../img/12.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),url('https://via.placeholder.com/50');
     background-repeat: none;
     padding: 35px;
     width: 100%;
