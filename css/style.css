@@ -603,9 +603,26 @@ body{
     }
 }
 
-@media screen and (width:736px){
+@media screen and (max-width:736px){
+   #header{
+       padding-bottom: 1.5em;
+   }
+   
     #how-it-works{
         margin-top: 94em !important;
+    }
+
+    .hero-image{
+        display: none;
+    }
+
+    .card-badge{
+        display: block !important;
+        margin-top: 7px;
+    }
+
+    .contact{
+        margin-top: 2em !important;
     }
 }
 
